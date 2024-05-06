@@ -1,5 +1,6 @@
-
-
+KEVIN SAPUTRA (535220139)
+M. HAFIZH MULYANYSAH (535220229)
+RUDI HARTARTO (535220197)  
 
 pada tugas backend kali ini,
 kelompok kami membuat sebuah program blog website yg menggunakan nodejs ejs dan mongodb
